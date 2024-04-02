@@ -14,8 +14,8 @@ I’m an undergraduate student pursuing a degree in Informatics Engineering at I
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&style=flat)
 
 ## 💬 Reach Me
-[![GMail Badge](https://img.shields.io/badge/-dimasfaid@gmail.com-333333?style=for-the-badge&logo=gmail&style=flat)](mailto:mssp892@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Dimas_Faidh_Muzaki-333333?style=for-the-badge&logo=linkedin&style=flat)](https://www.linkedin.com/in/msyahrulsp/)
+[![GMail Badge](https://img.shields.io/badge/-dimasfaid@gmail.com-333333?style=for-the-badge&logo=gmail&style=flat)](mailto:dimasfaid@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Dimas_Faidh_Muzaki-333333?style=for-the-badge&logo=linkedin&style=flat)](https://www.linkedin.com/in/dimasfm/)
 
 <!--
 **maspaitujaki/maspaitujaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
